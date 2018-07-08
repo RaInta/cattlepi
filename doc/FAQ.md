@@ -48,7 +48,9 @@ eth0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
  This often involves navigating to the gateway IP for your router 
  (e.g. mine is http://192.168.0.1/), logging in, and checking the DNS tables. For example:
 
+
 | Name | IP | MAC |
+| --- | --- | --- |
 | raspberrypi | 192.168.1.12 | B8:27:EB:8C:0D:24 |
 
 If you don't know your router's password, it may be set to the manufacturer's default. You may
